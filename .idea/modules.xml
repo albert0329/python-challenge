@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataClass/.idea/DataClass.iml" filepath="$PROJECT_DIR$/../DataClass/.idea/DataClass.iml" />
       <module fileurl="file://$USER_HOME$/UCIRV201810DATA4/.idea/UCIRV201810DATA4.iml" filepath="$USER_HOME$/UCIRV201810DATA4/.idea/UCIRV201810DATA4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-challenge.iml" filepath="$PROJECT_DIR$/.idea/python-challenge.iml" />
     </modules>

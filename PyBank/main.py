@@ -1,21 +1,41 @@
 import csv
 
 budgetPath = 'budget_data.csv'
-totalCalc = 0
+
+date = []
+amount = []
+avgChange = []
+
+totalMonths = 0
+totalAmount = 0
+totalAverage = 0
+
+
 
 with open(budgetPath) as csvfile:
-
     csvreader = csv.reader(csvfile, delimiter=',')
 
-    #remove header line
+    #remove header
     csv_header = next(csvreader)
 
-    # calculate total months
-    totalMonths = len(csvfile.readlines())
-
     for row in csvreader:
-        totalCalc += int(row[1])
-    print(totalCalc)
+        date.append(row[0])
+        amount.append(int(row[1]))
+
+    totalMonths = len(date)
+
+    totalAmount = sum(amount)
+
+    for i in range(1, len(amount)):
+        #averageChange = amount[i+1] - amount[i]
+        avgChange.append(amount[i] - amount[i-1])
+    totalAverage = '{0:.2f}'.format(sum(avgChange)/len(avgChange))
+
+
+
+
+
+
 
 
 
