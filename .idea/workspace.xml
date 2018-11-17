@@ -2,15 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac30b7cb-b96f-44aa-864d-348d8cce6969" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-challenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyPoll/election_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyBank/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyBank/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyPoll/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyPoll/main.py" afterDir="false" />
       <change beforePath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/01-Stu_CerealCleaner/Unsolved/cereal_unsolved.py" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/01-Stu_CerealCleaner/Unsolved/cereal_unsolved.py" afterDir="false" />
       <change beforePath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/03-Stu_HobbyBook/Unsolved/HobbyBook_Unsolved.py" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/03-Stu_HobbyBook/Unsolved/HobbyBook_Unsolved.py" afterDir="false" />
       <change beforePath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/05-Stu_List_Comprehensions/Unsolved/comprehensions.py" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/05-Stu_List_Comprehensions/Unsolved/comprehensions.py" afterDir="false" />
       <change beforePath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/Unsolved/main.py" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/Unsolved/main.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/01-Ins_JupyterIntro/Solved/JupyterIntro.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/01-Ins_JupyterIntro/Solved/JupyterIntro.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/02-Stu_NetflixRemix/Unsolved/NetflixRemix.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/02-Stu_NetflixRemix/Unsolved/NetflixRemix.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/03-Ins_IntroToPandas/Solved/creating_data_frames.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/03-Ins_IntroToPandas/Solved/creating_data_frames.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/04-Stu_DataFrameShop/Unsolved/DataFrameShop.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/04-Stu_DataFrameShop/Unsolved/DataFrameShop.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/05-Ins_DataFunctions/Solved/data_functions.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/05-Ins_DataFunctions/Solved/data_functions.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/06-Stu_TrainingGrounds/Unsolved/TrainingGrounds.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/06-Stu_TrainingGrounds/Unsolved/TrainingGrounds.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/07-Ins_ColumnManipulation/Solved/ColumnManipulation.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/07-Ins_ColumnManipulation/Solved/ColumnManipulation.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/09-Ins_ReadingWritingCSV/Solved/pandas_reading_files.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/09-Ins_ReadingWritingCSV/Solved/pandas_reading_files.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/10-Stu_GoodReads/Unsolved/GoodReads.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/10-Stu_GoodReads/Unsolved/GoodReads.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/11-Stu_GoodReadsSummary/Unsolved/GoodReadsSummary.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/1/Activities/11-Stu_GoodReadsSummary/Unsolved/GoodReadsSummary.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/01-Ins_LocAndIloc/Solved/LocAndIloc.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/01-Ins_LocAndIloc/Solved/LocAndIloc.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/02-Stu_GoodMovies/Unsolved/goodMovies.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/02-Stu_GoodMovies/Unsolved/goodMovies.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/03-Ins_CleaningData/Solved/CleaningData.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/03-Ins_CleaningData/Solved/CleaningData.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/04-Par_PortlandCrime/Solved/PortlandCrime.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/04-Par_PortlandCrime/Solved/PortlandCrime.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/04-Par_PortlandCrime/Unsolved/PortlandCrime.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/04-Par_PortlandCrime/Unsolved/PortlandCrime.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/05-Evr_PandasRecap/Solved/PandasRecap.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/05-Evr_PandasRecap/Solved/PandasRecap.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/06-Ins_GroupBy/Solved/GroupBy.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/06-Ins_GroupBy/Solved/GroupBy.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/07-Par_Pokemon/Solved/pokemon.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/07-Par_Pokemon/Solved/pokemon.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/07-Par_Pokemon/Unsolved/pokemon.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/07-Par_Pokemon/Unsolved/pokemon.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/08-Ins_Sorting/Solved/Sorting.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/08-Ins_Sorting/Solved/Sorting.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/09-Stu_SearchForTheWorst/Solved/SearchForTheWorst.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/09-Stu_SearchForTheWorst/Solved/SearchForTheWorst.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/09-Stu_SearchForTheWorst/Unsolved/SearchForTheWorst.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/2/Activities/09-Stu_SearchForTheWorst/Unsolved/SearchForTheWorst.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/01-Ins_Merging/Solved/Merging.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/01-Ins_Merging/Solved/Merging.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/02-Stu_Cryptocurrency/Solved/Cryptocurrency.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/02-Stu_Cryptocurrency/Solved/Cryptocurrency.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/02-Stu_Cryptocurrency/Unsolved/Cryptocurrency.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/02-Stu_Cryptocurrency/Unsolved/Cryptocurrency.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/03-Ins_Binning/Solved/Binning.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/03-Ins_Binning/Solved/Binning.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/04-Stu_TedTalks/Solved/BinningTed.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/04-Stu_TedTalks/Solved/BinningTed.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/04-Stu_TedTalks/Unsolved/BinningTed.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/04-Stu_TedTalks/Unsolved/BinningTed.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/05-Ins_Mapping/Solved/Mapping.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/05-Ins_Mapping/Solved/Mapping.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/06-Stu_CleaningKickstarter/Solved/KickstarterClean.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/06-Stu_CleaningKickstarter/Solved/KickstarterClean.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/06-Stu_CleaningKickstarter/Unsolved/KickstarterClean.ipynb" beforeDir="false" afterPath="$USER_HOME$/UCIRV201810DATA4/04-Pandas/3/Activities/06-Stu_CleaningKickstarter/Unsolved/KickstarterClean.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,32 +53,34 @@
     <session id="697794076">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="2" />
+          <entry key="csv" value="7" />
           <entry key="md" value="2" />
-          <entry key="py" value="17" />
+          <entry key="py" value="33" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="17" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3264" />
+          <entry key="py" value="6841" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3264" />
+          <entry key="Python" value="6841" />
         </counts>
       </usages-collector>
     </session>
@@ -57,39 +90,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyBank/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="488">
+              <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
               <folding>
-                <marker date="1541886930667" expanded="true" signature="650:665" ph="..." />
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1542486765844" expanded="true" signature="1645:1660" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyBank/budget_data.csv">
+        <entry file="file://$PROJECT_DIR$/PyPoll/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/Unsolved/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="283">
+              <caret line="82" selection-start-line="82" selection-end-line="95" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,19 +127,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PyPoll/main.py" />
         <option value="$PROJECT_DIR$/../DataClass/Nov10_Classwork.py" />
         <option value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/01-Stu_CerealCleaner/Unsolved/cereal_unsolved.py" />
         <option value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/03-Stu_HobbyBook/Unsolved/HobbyBook_Unsolved.py" />
         <option value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/05-Stu_List_Comprehensions/Unsolved/comprehensions.py" />
         <option value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/Unsolved/main.py" />
+        <option value="$PROJECT_DIR$/PyPoll/main.py" />
         <option value="$PROJECT_DIR$/PyBank/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="207" />
-    <option name="y" value="63" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="274" />
+    <option name="y" value="116" />
     <option name="width" value="1400" />
     <option name="height" value="987" />
   </component>
@@ -145,6 +163,11 @@
             </path>
             <path>
               <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="PyPoll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -160,30 +183,43 @@
               <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
               <item name="03-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
               <item name="03-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
               <item name="Activities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
               <item name="03-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="Activities" type="462c0819:PsiDirectoryNode" />
-              <item name="06-Evr_Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
               <item name="03-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
               <item name="Activities" type="462c0819:PsiDirectoryNode" />
-              <item name="06-Evr_Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
+              <item name="03-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="09-Ins_WriteCSV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
+              <item name="03-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="09-Ins_WriteCSV" type="462c0819:PsiDirectoryNode" />
               <item name="Solved" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -191,26 +227,6 @@
               <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
               <item name="03-Python" type="462c0819:PsiDirectoryNode" />
               <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="Activities" type="462c0819:PsiDirectoryNode" />
-              <item name="06-Evr_Functions" type="462c0819:PsiDirectoryNode" />
-              <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
-              <item name="03-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="Activities" type="462c0819:PsiDirectoryNode" />
-              <item name="07-Stu_Functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UCIRV201810DATA4" type="462c0819:PsiDirectoryNode" />
-              <item name="03-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="Activities" type="462c0819:PsiDirectoryNode" />
-              <item name="07-Stu_Functions" type="462c0819:PsiDirectoryNode" />
-              <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,6 +237,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PyPoll" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -235,69 +256,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="HobbyBook_Unsolved" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UCIRV201810DATA4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/03-Stu_HobbyBook/Unsolved" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/03-Stu_HobbyBook/Unsolved/HobbyBook_Unsolved.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cereal_unsolved" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UCIRV201810DATA4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/01-Stu_CerealCleaner/Unsolved" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/01-Stu_CerealCleaner/Unsolved/cereal_unsolved.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UCIRV201810DATA4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/05-Stu_List_Comprehensions/Unsolved" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/05-Stu_List_Comprehensions/Unsolved/comprehensions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UCIRV201810DATA4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,6 +269,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/Unsolved/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyPoll" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyPoll/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,20 +319,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="simple_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UCIRV201810DATA4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/02-Ins_SimpleLoops/Solved" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/02-Ins_SimpleLoops/Solved/simple_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zipper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UCIRV201810DATA4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/10-Ins_Zip/Solved" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/10-Ins_Zip/Solved/zipper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.cereal_unsolved" />
-      <item itemvalue="Python.HobbyBook_Unsolved" />
-      <item itemvalue="Python.comprehensions" />
       <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.simple_loops" />
+      <item itemvalue="Python.zipper" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.zipper" />
+        <item itemvalue="Python.simple_loops" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.comprehensions" />
-        <item itemvalue="Python.HobbyBook_Unsolved" />
-        <item itemvalue="Python.cereal_unsolved" />
       </list>
     </recent_temporary>
   </component>
@@ -371,19 +392,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="207" y="63" width="1400" height="987" extended-state="0" />
+    <frame x="274" y="116" width="1400" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,9 +424,6 @@
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyPoll/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/02-Ins_Dicts/Unsolved/dictionaries.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -454,16 +472,10 @@
         <state relative-caret-position="-122" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/06-Evr_Functions/Unsolved/functions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/05-Stu_List_Comprehensions/Solved/comprehensions.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/Solved/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/06-Evr_Functions/Solved/functions.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/07-Stu_Functions/Unsolved/main.py">
@@ -488,12 +500,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyBank/main.py">
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/06-Evr_Functions/Unsolved/functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/3/Activities/06-Evr_Functions/Solved/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/08-Stu_ReadNetFlix/Solved/netflix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <marker date="1541886930667" expanded="true" signature="650:665" ph="..." />
+            <element signature="e#10#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyBank/HW2_Output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/02-Ins_SimpleLoops/Solved/simple_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/03-Stu_KidInCandyStore/Solved/kid_in_candy_store_bonus.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/03-Stu_KidInCandyStore/Solved/kid_in_candy_store.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/04-Stu_HouseOfPies/Solved/house_of_pies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/04-Stu_HouseOfPies/Solved/house_of_pies_bonus.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/05-Ins_BasicRead/Solved/read_file.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/06-Ins_Modules/Solved/imports.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/06-Ins_Modules/Unsolved/imports.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/09-Ins_WriteCSV/Unsolved/write.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/09-Ins_WriteCSV/Solved/write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/11-Stu_UdemyZip/Solved/web_final.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/09-Ins_WriteCSV/output/new.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyPoll/election_data.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/10-Ins_Zip/Solved/output.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/10-Ins_Zip/Solved/zipper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="15" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/UCIRV201810DATA4/03-Python/2/Activities/11-Stu_UdemyZip/Solved/web_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="44" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyPoll/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyPoll/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="82" selection-start-line="82" selection-end-line="95" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyBank/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyBank/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1542486765844" expanded="true" signature="1645:1660" ph="..." />
           </folding>
         </state>
       </provider>
